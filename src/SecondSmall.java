@@ -1,5 +1,5 @@
 import java.util.Arrays;
-
+//second smallest in array
 public class SecondSmall {
     public static void main(String[] args) {
         int arr1[] =  {2,5,1,3,0};
